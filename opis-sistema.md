@@ -7,4 +7,7 @@ evidentira posudbu i povrat knjiga.
 - Knjižničar
 - Voditelj knjižnice
 
-## Osnovni zahtjevi i ispod njega tri zahtjeva, svaki u svojem retku koji počinje znakom -. Zahtjev opisuje što korisnik može napraviti u sustavu, npr. - Član može pretražiti knjige po naslovu.
+## Osnovni zahtjevi i ispod njega tri zahtjeva, svaki u svojem retku koji počinje znakom 
+-. Zahtjev opisuje što korisnik može napraviti u sustavu, npr. 
+- Član može pretražiti knjige po naslovu.
+novi-zahtjev 
